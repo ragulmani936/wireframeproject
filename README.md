@@ -18,7 +18,7 @@ Duplicate the layout and modify the further pages.
 Save the pages once you're done.
 
 ## OUTPUT:
-![output]() 
+![output](https://github.com/ragulmani936/wireframeproject/blob/main/screenshot1.png) 
 ![output]() 
 ![output]() 
 ## Result:
