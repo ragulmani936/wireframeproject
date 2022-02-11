@@ -20,6 +20,6 @@ Save the pages once you're done.
 ## OUTPUT:
 ![output](https://github.com/ragulmani936/wireframeproject/blob/main/screenshot1.png) 
 ![output](https://github.com/ragulmani936/wireframeproject/blob/main/screenshot2.png) 
-![output]() 
+![output](https://github.com/ragulmani936/wireframeproject/blob/main/screenshot3.png) 
 ## Result:
 Thus a wire frame is designed for a given website.
