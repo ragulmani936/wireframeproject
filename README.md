@@ -19,7 +19,7 @@ Save the pages once you're done.
 
 ## OUTPUT:
 ![output]() 
-
-
+![output]() 
+![output]() 
 ## Result:
 Thus a wire frame is designed for a given website.
